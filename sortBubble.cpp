@@ -1,4 +1,4 @@
-#include "head.h"
+#include "head.h"  /*! Сортировка методом пузырька */
 void P_Sort ( char *Mass, int n )
 {
 	char TMP;
