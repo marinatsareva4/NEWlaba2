@@ -7,7 +7,7 @@ void P_Sort ( char *Mass, int n )
 	do
 	{
 		change = 0;
-		for( i = 1; i < n - 1; i++ )
+		for( i = 1; i < n - 1; i++ )  
 		{
 			if( Mass[ i ] >  Mass[ i + 1 ] )
 			{
